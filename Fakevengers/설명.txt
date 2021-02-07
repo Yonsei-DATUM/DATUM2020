@@ -1,0 +1,13 @@
+1. 출처
+게임 1, 2(카레이싱, 슈팅게임)는 나도코딩 님의 인프런 강의를 참조하였습니다.
+게임 4는 Shivam Shekhar 에 의해 개발되었습니다.
+
+2. 게임 이기는 법
+게임 1 - 10초 동안 자동차 피하기
+게임 2 - 공 모두 없애기
+
+3. 참고
+게임 3은 스페이스 바를 눌러야 시작이 됩니다.
+게임 4는 창닫기를 눌러야 파이게임이 끝납니다.
+ 
+- made by Group 4:  Jungah Kim,  Kunhee Ryu, Heewon Yang, Uijin Kim, Sein Oh, Dongjun Ko  - 
